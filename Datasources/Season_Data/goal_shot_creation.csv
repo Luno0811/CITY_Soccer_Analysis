@@ -1,0 +1,32 @@
+Player ID,Player,#,Nation,Pos,Age,90s,SCA,SCA90,PassLive(S),PassDead(S),TO(S),Sh(S),Fld(S),Def(S),GCA,GCA90,PassLive(G),PassDead(G),TO(G),Sh(G),Fld(G),Def(G),Matches
+0,Roman Bürki,1,ch SUI,GK,32-351,33,11,0.33,8,3,0,0,0,0,2,0.06,0,2,0,0,0,0,Matches
+1,Tim Parker,26,us USA,DF,30-250,28.5,18,0.63,15,1,0,0,0,2,3,0.11,3,0,0,0,0,0,Matches
+2,Eduard Löwen,10,de GER,MF,26-276,25.6,132,5.14,71,31,10,9,10,1,19,0.74,12,6,1,0,0,0,Matches
+3,Jake Nerwinski,2,us USA,DF,29-014,24.6,35,1.43,30,3,1,0,1,0,3,0.12,3,0,0,0,0,0,Matches
+4,Indiana Vassilev,19,us USA,MF,22-257,23.5,87,3.7,54,15,4,3,10,1,10,0.43,3,2,1,1,3,0,Matches
+5,Jared Stroud,8,us USA,"MF,FW",27-113,21.9,47,2.14,36,3,0,2,3,3,10,0.46,7,0,0,1,2,0,Matches
+6,Kyle Hiebert,22,ca CAN,DF,26-093,23.6,21,0.89,17,3,0,0,0,1,2,0.08,2,0,0,0,0,0,Matches
+7,Nicholas Gioacchini,11,us USA,FW,23-098,23.3,69,2.96,47,0,2,7,12,1,8,0.34,4,0,0,3,1,0,Matches
+8,Njabulo Blom,6,za RSA,MF,23-324,21.3,29,1.36,25,0,0,1,1,2,3,0.14,3,0,0,0,0,0,Matches
+9,Klauss,9,br BRA,FW,26-244,14.6,38,2.6,25,0,2,6,2,3,4,0.27,2,0,2,0,0,0,Matches
+10,John Nelson,14,us USA,DF,25-112,14.1,23,1.64,18,0,3,1,1,0,1,0.07,1,0,0,0,0,0,Matches
+11,Tomáš Ostrák,7,cz CZE,"MF,FW",23-268,12.8,38,2.98,26,1,4,5,2,0,5,0.39,3,0,0,2,0,0,Matches
+12,Rasmus Alm,21,se SWE,"MF,FW",28-075,12.2,36,2.96,28,3,1,1,3,0,6,0.49,4,1,0,0,1,0,Matches
+13,Aziel Jackson,25,fr FRA,"MF,FW",22-007,12.4,52,4.19,33,3,4,3,7,2,9,0.73,3,2,1,1,2,0,Matches
+14,Lucas Bartlett,24,us USA,DF,26-097,11.9,9,0.76,7,0,0,1,0,1,1,0.08,1,0,0,0,0,0,Matches
+15,Samuel Adeniran,16,us USA,FW,25-031,10.5,19,1.8,13,0,3,2,0,1,2,0.19,1,0,0,0,0,1,Matches
+16,Akil Watts,20,us USA,"DF,MF",23-269,9.8,16,1.63,15,0,0,0,0,1,1,0.1,1,0,0,0,0,0,Matches
+17,Célio Pompeu,12,br BRA,"FW,MF",23-325,10.8,53,4.89,33,2,11,2,5,0,4,0.37,3,0,0,0,1,0,Matches
+18,Joshua Yaro,15,gh GHA,DF,28-347,10.1,9,0.89,7,0,0,0,0,2,0,0,0,0,0,0,0,0,Matches
+19,Anthony Markanich,13,us USA,DF,23-309,7.3,13,1.78,11,1,0,1,0,0,1,0.14,1,0,0,0,0,0,Matches
+20,Miguel Perez,28,us USA,MF,18-186,6.8,17,2.51,16,0,0,1,0,0,0,0,0,0,0,0,0,0,Matches
+21,Joakim Nilsson,4,se SWE,DF,29-267,6.6,2,0.3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+22,Jon Bell,23,us USA,DF,26-066,1.6,1,0.64,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+23,Nökkvi Þórisson,29,is ISL,"FW,MF",24-079,3,7,2.35,6,0,0,0,1,0,0,0,0,0,0,0,0,0,Matches
+24,Benjamin Lundt,39,de GER,GK,28-037,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+25,Isak Jensen,30,dk DEN,"MF,FW",19-312,1.6,5,3.15,3,0,1,0,1,0,1,0.63,1,0,0,0,0,0,Matches
+26,Selmir Pidro,17,ba BIH,DF,25-242,0.5,2,4.19,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+27,John Klein,41,us USA,MF,23-348,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+28,Caden Glover,46,us USA,MF,16-237,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+29,Squad Total,,,26.5,34,789,23.21,549,69,46,45,59,21,95,2.79,58,13,5,8,10,1,,
+30,Opponent Total,,,28.0,34,762,22.41,543,63,53,51,40,12,78,2.29,57,4,4,7,5,1,,
